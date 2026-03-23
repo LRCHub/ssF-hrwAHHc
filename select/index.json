@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Somebody Else",
+  "base_artist": "The 1975",
+  "createdAt": "2026-03-23T14:31:37.140975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somebody Else Will",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/01_Somebody_Else_Will_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody Else Will",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/02_Somebody_Else_Will_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "Glenn Frey",
+      "has_synced": false,
+      "path": "select/03_Somebody_Else_Glenn_Frey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The One I Love (Belongs to Somebody Else)",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/04_The_One_I_Love_(Belongs_to_Somebody_Else)_Dean_Martin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Leave Yourself for Somebody Else",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/05_Leave_Yourself_for_Somebody_Else_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/06_Somebody_Else_Big_Country.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please Don't Have Somebody Else",
+      "artist": "Madeline Juno",
+      "has_synced": true,
+      "path": "select/07_Please_Don't_Have_Somebody_Else_Madeline_Juno.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/08_Somebody_Else_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Got Somebody Else",
+      "artist": "Changing Faces",
+      "has_synced": true,
+      "path": "select/09_I_Got_Somebody_Else_Changing_Faces.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "[Somebody Else Been] Shaking Your Tree",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/10_[Somebody_Else_Been]_Shaking_Your_Tree_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Somebody Else Been) Shakin' Your Tree",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/11_(Somebody_Else_Been)_Shakin'_Your_Tree_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "Robert Glasper Experiment feat. Emeli Sandé",
+      "has_synced": true,
+      "path": "select/12_Somebody_Else_Robert_Glasper_Experiment_feat._Emeli_Sandé.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "Robert Glasper Experiment, Emeli Sandé",
+      "has_synced": true,
+      "path": "select/13_Somebody_Else_Robert_Glasper_Experiment,_Emeli_Sandé.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You're Somebody Else (acoustic)",
+      "artist": "flora cash",
+      "has_synced": true,
+      "path": "select/14_You're_Somebody_Else_(acoustic)_flora_cash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somebody Else (with Jorja Smith & Lil Durk)",
+      "artist": "Calvin Harris feat. Jorja Smith & Lil Durk",
+      "has_synced": true,
+      "path": "select/15_Somebody_Else_(with_Jorja_Smith_&_Lil_Durk)_Calvin_Harris_feat._Jorja_Smith_&_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somebody Else",
+      "artist": "Calvin Harris Ft. Jorja Smith & Lil Durk",
+      "has_synced": true,
+      "path": "select/16_Somebody_Else_Calvin_Harris_Ft._Jorja_Smith_&_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sunsets For Somebody Else",
+      "artist": "Jack Johnson",
+      "has_synced": true,
+      "path": "select/17_Sunsets_For_Somebody_Else_Jack_Johnson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody Else",
+      "artist": "The 1975",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody_Else_The_1975.txt"
+    }
+  ]
+}
